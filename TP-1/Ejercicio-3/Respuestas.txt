@@ -1,0 +1,9 @@
+¿Cómo podrías pausar el trabajo en el commit actual para dedicarte a trabajar en master?
+
+Puedes guardar los cambios sin hacer commit utilizando stash.
+
+¿Cómo podrías subir los cambios a producción si es la rama master la que se usa para
+producción?
+
+Podrias usar git merge para combinar ambas ramas y luego pushear los cambios a produccion.
+Pd: Esto podria tener conflictos a resolver antes de realizar el merge.
