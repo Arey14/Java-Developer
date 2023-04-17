@@ -1,3 +1,45 @@
+commit 594d80fde7a887f22fec7f4bd977d607ac953383
+Author: Augusto <augusto@pop-os.localdomain>
+Date:   Mon Apr 17 20:08:41 2023 -0300
+
+    Finalizacion de ejercicios 2 y 3.
+
+commit 13614fdc381a3bbe27ce94f10eedfa0bb64d2181
+Merge: 571a2c9 b258478
+Author: Augusto <augusto@pop-os.localdomain>
+Date:   Sun Apr 16 22:22:38 2023 -0300
+
+    Merge remote-tracking branch 'refs/remotes/origin/main'
+
+commit 571a2c9f32dd077a669bb29817871c4920691b26
+Author: Augusto <augusto@pop-os.localdomain>
+Date:   Sun Apr 16 22:15:43 2023 -0300
+
+    Ejercicio 2
+    -Submodulo
+    Cambios en README.md
+
+commit b258478a65bf41a2eb19143f24cbf5bb7af016d3
+Author: Augusto <augusto@pop-os.localdomain>
+Date:   Sun Apr 16 16:43:37 2023 -0300
+
+    Ejercicio 2
+    Correcciones
+            Ejercicio 1 y 2 en carpeta TP-1
+
+commit cace3dd279e4097169068b2421ac513f0900d4cd
+Author: Augusto <augusto@pop-os.localdomain>
+Date:   Sun Apr 16 16:21:01 2023 -0300
+
+    Ejercicio 1
+
+commit 01f7c6e406ca7c599bb00a027480e99b1f2a3861
+Author: Augusto <augusto@pop-os.localdomain>
+Date:   Sun Apr 16 16:01:11 2023 -0300
+
+    -Creacion de Carpeta "TP-1" y commit.log
+    -Modificacion de README.md
+
 commit e1aa7c07c894b619db98d238b6faab6563ec42ed
 Author: Augusto <augusto@pop-os.localdomain>
 Date:   Thu Apr 13 18:10:07 2023 -0300
