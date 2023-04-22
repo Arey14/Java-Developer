@@ -1,0 +1,47 @@
+body {
+    background-color: #edf7ff;
+    text-align: justify;
+  }
+  h1{
+    padding-top: 80px;
+    font-family: 'MuseoModerno', cursive;;
+    color: #0a2ff1;
+    font-size: 88pt;
+    line-height: 0px;
+    padding-left: 80px;
+  }
+  h2{
+    font-family: 'MuseoModerno', cursive;
+    color: #0a2ff1;
+    font-size: 36pt;
+    padding-left: 80px;
+    line-height: 0.5;
+  }
+  h3{
+    font-family: 'MuseoModerno', cursive;
+    color: #8a9af1;
+    font-size: 149pt;
+    line-height: 0;
+  }
+  h4{
+    font-family: 'Asap',sans-serif;
+    color: #0a2ff1;
+    font-weight: lighter;
+    font-size: 39pt;
+    padding-left: 80px;
+    padding-bottom: 25px;
+  }
+  p {
+    font-family: 'Asap', sans-serif;
+    color: #04146c;
+    font-size: 25pt;
+    padding-left: 80px;
+    padding-bottom: 25px;
+  }
+  li{
+    color: #04146c;
+    font-size: 25pt;
+    font-family: 'Asap', sans-serif;
+    padding-left: 80px;
+  }
+ 
