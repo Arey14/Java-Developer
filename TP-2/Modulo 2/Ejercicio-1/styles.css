@@ -1,0 +1,36 @@
+body {
+    background-color: white;
+    text-align: justify;
+  }
+  h1{
+    font-family: 'Poppins', sans-serif;
+    color: #0a2ff1;
+    font-size: 59pt;
+    padding-left: 80px;
+    font-weight: bold;
+  }
+  h2{
+    font-family: 'Poppins', sans-serif;
+    color: #0a2ff1;
+    padding-left: 80px;
+    font-size: 23pt;
+    font-weight: 500;
+  }
+  strong{
+    background-color: #3ffff3;
+  }
+  .celu{
+    padding-left: 80px;
+    position: relative;
+    width: 350px;
+  }
+  .fondo{
+    position: absolute;
+    width: 360px;
+    height: 400px;
+    left: 80px;
+    top: 580px;
+  }
+  .div{
+    position: relative;
+  }
