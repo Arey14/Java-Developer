@@ -1,0 +1,39 @@
+body {
+    background-color: white;
+    font-family: 'Source Sans Pro', sans-serif;
+    width: 50%;
+    text-align: center;
+
+  }
+  main{
+    width: 50%;
+    margin: 0% 50%;
+  }
+  h1{
+    color: #04146c;
+    font-weight: 900;
+    font-size: 66pt;
+  }
+  h2{
+    color: white;
+    background-color: #04146c;
+    font-weight: 400;
+    font-size: 29pt;
+  }
+  h3{
+    color: #04146c;
+    font-weight: 400;
+    font-size: 20pt;
+  }
+  img{
+    width: 600px;
+  }
+  p{
+    color: #04146c;
+    font-weight: 400;
+    font-size: 18pt;
+    background-color: #edf7ff;
+  }
+  strong{
+    font-weight: 700;
+  }
