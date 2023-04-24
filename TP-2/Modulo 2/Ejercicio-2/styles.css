@@ -1,0 +1,18 @@
+body {
+    background-color: white;
+    text-align: center;
+  }
+  p{
+    font-family: 'Poppins', sans-serif;
+    color: #0a2ff1;
+    font-size: 24pt;
+    font-weight: 300;
+  }
+  strong{
+    font-weight: bold;
+  }
+  .div{
+    position: relative;
+  }
+  img {width:100px; vertical-align: middle;
+    margin-left: 30px;}
