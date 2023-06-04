@@ -1,0 +1,31 @@
+/* Extra small devices (phones, less than 768px) */
+/* No media query since this is the default in Bootstrap */
+
+/* Small devices (tablets, 768px and up) */
+body{
+    font-family: 'Mulish', sans-serif;
+}
+h2{
+    font-size: 37pt;
+    color: #04146c;
+    font-weight: bold;
+    margin-top: 15px;
+}
+h3{
+    font-size: 18pt;
+    color: #04146c;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 15px;
+}
+p{
+    font-size: 18pt;
+    color: #04146c;
+    font-weight: 400;
+}
+.row{
+    flex-wrap: wrap;
+}
+strong{
+    color:#0a2ff1;
+}

@@ -1,0 +1,28 @@
+/* Extra small devices (phones, less than 768px) */
+/* No media query since this is the default in Bootstrap */
+
+/* Small devices (tablets, 768px and up) */
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+label{
+    font-size: 18pt;
+    color: #04146c;
+    font-weight: 400;
+    margin-top: 15px;
+}
+p{
+    font-size: 13pt;
+    color: #04146c;
+    font-weight: 400;
+    font-style: italic;
+}
+.row{
+    flex-wrap: wrap;
+}
+#rememberMe{
+    margin-left: 1%;
+    top: .8rem;
+    scale: 2;
+    margin-right: 0.7rem;
+}

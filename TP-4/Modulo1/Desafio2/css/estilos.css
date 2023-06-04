@@ -1,0 +1,27 @@
+/* Extra small devices (phones, less than 768px) */
+/* No media query since this is the default in Bootstrap */
+
+/* Small devices (tablets, 768px and up) */
+body{
+    font-family: 'Mulish', sans-serif;
+}
+h1{
+    font-size: 3rem;
+    color: #3957f1;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 30px;
+}
+h2{
+    font-size: 1.5rem;
+    color: white;
+    font-weight: 400;
+    text-align: bottom;
+    margin-top: 15px;
+}
+.row{
+    flex-wrap: wrap;
+}
+.col-md-2{
+    width: 22rem;
+}
